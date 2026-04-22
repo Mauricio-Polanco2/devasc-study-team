@@ -3,6 +3,6 @@ IP: 192.168.50.2 | Capa: Acceso
 VLAN: N/A | Servicios: Conectividad de personal externo.
 ------------------------------------------
 Dispositivo: Switch RRPP
-IP: 192.168.50.2 | Capa: Acceso
+IP: 192.168.50.3 | Capa: Acceso
 VLAN: N/A | Servicios: Conectividad de personal Externo.
 ------------------------------------------
