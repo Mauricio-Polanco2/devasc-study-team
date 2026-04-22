@@ -13,7 +13,7 @@ Este script de Python ha sido desarrollado como una solución profesional para l
 
 ### 2. Organización por Sucursales (Escalabilidad)
 * Se reestructuró el código para utilizar el concepto de **Sucursales** en lugar de Sedes, alineándose con los requerimientos específicos de la topología.
-* **Sucursales integradas:** Campus Uno, Campus Matriz, Zona Core / VPN, Sector Outsourcing y Data Center Externo.
+* **Sucursales integradas:** Campus Uno, Campus Matriz, Zona Core / VPN, Sector Outsourcing.
 
 ### 3. Validación de Modelo Jerárquico
 * Se añadió un sistema de clasificación obligatorio para cada dispositivo:
@@ -35,7 +35,7 @@ Este script de Python ha sido desarrollado como una solución profesional para l
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
+##  Tecnologías Utilizadas
 * **Lenguaje:** Python 3
 * **Sistema Operativo:** Ubuntu (Linux)
 * **Control de Versiones:** Git / GitHub
@@ -43,13 +43,13 @@ Este script de Python ha sido desarrollado como una solución profesional para l
 
 ---
 
-## 📂 Estructura de Archivos Generados
+##  Estructura de Archivos Generados
 Al registrar dispositivos, el sistema genera automáticamente los siguientes reportes:
 * `Campus_Uno.txt`
 * `Campus_Matriz.txt`
 * `Zona_Core_VPN.txt`
 * `Sector_Outsourcing.txt`
-* `Data_Center_Externo.txt`
+
 
 ---
 
