@@ -1,0 +1,10 @@
+
+Dispositivo: Multicapa SITELOCAL
+IP: 192.168.20.1 | Capa: Distribucion
+VLAN: N/A | Servicios: OSPF Area 0
+------------------------------------------
+
+Dispositivo: Switch Campus 1
+IP: 192.168.20.2 | Capa: Acceso
+VLAN: 20 | Servicios: Conectividad para laptop y servicios.
+------------------------------------------

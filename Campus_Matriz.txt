@@ -1,0 +1,15 @@
+
+Dispositivo: Switch BACK BONE MATRIZ
+IP: 10.0.0.1 | Capa: Distribucion
+VLAN: 10,20,30 (Trunking) | Servicios: Inter-Vlan Routing, Gestión de Backbone.
+------------------------------------------
+
+Dispositivo: Switch VENTAS
+IP: 10.0.10.2 | Capa: Acceso
+VLAN: 10 | Servicios: Acceso de usuarios finales.
+------------------------------------------
+
+Dispositivo: Switch FINANZAS
+IP: 10.0.30.2 | Capa: Acceso
+VLAN: 30 | Servicios: Acceso de usuarios finales.
+------------------------------------------

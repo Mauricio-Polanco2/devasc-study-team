@@ -1,0 +1,12 @@
+Dispositivo: Router ORIENTE
+IP: 172.16.1.1 | Capa: Nucleo
+VLAN: N/A | Servicios: VPN Site-to-SIte, Enrutamiento de borde.
+------------------------------------------
+Dispositivo: Router MATRIZ
+IP: 172.16.1.2 | Capa: Nucleo
+VLAN: N/A | Servicios: VPN Site-to-Site, Terminación de túnel seguro.
+------------------------------------------
+Dispositivo: Switch
+IP: acad:de:fe:30::1/64 | Capa: Nucleo
+VLAN: N/A | Servicios: Dual-Stack, VPN, Site-to-Site, OSPF
+------------------------------------------
