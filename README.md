@@ -49,8 +49,8 @@ Al registrar dispositivos, el sistema genera automáticamente los siguientes rep
 * `Campus_Matriz.txt`
 * `Zona_Core_VPN.txt`
 * `Sector_Outsourcing.txt`
-
+* `lista_sucursales.txt`
 
 ---
 
-**Desarrollado para la asignatura de Redes Avanzadas - Abril 2026**
+**Desarrollado para la asignatura de Redes Avanzadas - Abril 2026** 
